@@ -1,0 +1,25 @@
+{
+  "name": "three-vtk-loader",
+  "version": "1.0.0",
+  "description": "Three.js loader for VTK files, including lines",
+  "main": "VTKLoader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CustomOrthopaedics/three-vtk-loader.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CustomOrthopaedics/three-vtk-loader/issues"
+  },
+  "homepage": "https://github.com/CustomOrthopaedics/three-vtk-loader#readme",
+  "peerDependencies": {
+    "three": "^0.119.1"
+  },
+  "devDependencies": {
+    "three": "^0.119.1"
+  }
+}
