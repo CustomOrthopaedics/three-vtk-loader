@@ -1,6 +1,6 @@
 {
   "name": "three-vtk-loader",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "Three.js loader for VTK files, including lines",
   "type": "module",
   "main": "./VTKLoader.js",
