@@ -18,10 +18,10 @@
   },
   "homepage": "https://github.com/CustomOrthopaedics/three-vtk-loader#readme",
   "peerDependencies": {
-    "three": "^0.124.0"
+    "three": ">= 0.125.2"
   },
   "devDependencies": {
-    "three": "^0.124.0"
+    "three": "^0.125.2"
   },
   "dependencies": {
     "fflate": "^0.4.8"
