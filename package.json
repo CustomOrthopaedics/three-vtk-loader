@@ -21,7 +21,7 @@
     "three": ">= 0.125.2"
   },
   "devDependencies": {
-    "three": "^0.125.2"
+    "three": "^0.130.1"
   },
   "dependencies": {
     "fflate": "^0.4.8"
